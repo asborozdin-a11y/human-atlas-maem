@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" class="application">
+<head>
+<title>StackBlitz</title>
+<meta charset="utf-8">
+<meta property="og:type" content="object" />
+<meta property="og:site_name" content="StackBlitz" />
+<meta property="og:title" content="StackBlitz">
+<meta property="og:image" content="https://c.staticblitz.com/assets/social_general-7010bd1a6c30b52e72ddaf60ea7c233dce627140e735b17f61787647f1d1738f.jpg">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="StackBlitz">
+<meta name="twitter:image" content="https://c.staticblitz.com/assets/social_general-7010bd1a6c30b52e72ddaf60ea7c233dce627140e735b17f61787647f1d1738f.jpg">
+<meta name="twitter:site" content="@StackBlitz">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="theme-color" content="#2e3138">
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="_2--lXHOAqdA9YLSCth3NrS4pa2kW_n8dU44ZoK0J8wNsvsP8XueEoRus3wxkw-zhs_Bi2zhcvoCLRDY3EFOQg" />
+<meta name="action-cable-url" content="/cable" />
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" type="image/svg+xml" href="https://c.staticblitz.com/assets/favicon_sb-861fe1b85c0dc928750c62de15fed96fc75e57ee366bd937bad17a3938917b3f.svg">
+<link rel="icon" type="image/png" href="https://c.staticblitz.com/assets/favicon_sb-4f3d9011b264e56e3f61cf6612c50dd3b8fcae038843ba2d10c8d0b6194d19d6.png">
+<link rel="apple-touch-icon" type="image/png" href="https://c.staticblitz.com/assets/icons/icon-512x512-4fd226b904b09411fdeb83161b2b9f309394fea1b66817920a9ec1e71ca78ca0.png">
+
+
+<style>html {color: #ccc; background-color: #202327}</style>
+<meta name="sentry-trace" content="3bf2e7c32a164d29a8c8c959b74bcda6-86a2274ff4dd49d1-1">
+<meta name="baggage" content="sentry-trace_id=3bf2e7c32a164d29a8c8c959b74bcda6,sentry-sample_rate=1.0,sentry-sample_rand=0.857266,sentry-sampled=true,sentry-environment=production,sentry-release=72b425c2bc6475bd6bc19f5a74c856e18a13a1c4,sentry-public_key=dffef1dcba0b54d4b235736ebd9c126d">
+<link rel="stylesheet" href="https://c.staticblitz.com/assets/vite/editor-DAhhiBj7.css" defer="defer" />
+<link rel="stylesheet" href="https://c.staticblitz.com/assets/pack/client-6997c7de6a28a.css" />
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WM95FBXP');</script>
+<script>
+!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="4.0.0";analytics.load("ta1kDK49qdEDEfd8KYxI37mW0GPkLKn1");}}();
+</script>
+
+<script src="https://v-corp.staticblitz.com/npm/monaco-editor@0.26.1/min/vs/loader.js"></script>
+<script src="https://c.staticblitz.com/assets/pack/client-e0159d2dcd7aa.js"></script>
+
+
+</head>
+<body>
+<script type="application/json" data-redux-store="">{"auth":{"loggedIn":true,"user":{"avatar":"https://stackblitz.com/avatars/A/219.svg","bio":null,"businessPlan":false,"canAddCredentials":true,"canAddEmail":true,"canCreateOrgs":true,"canSubscribe":true,"canSwitchOwner":true,"createdAt":"2026-09-25T08:16:21.733Z","currentBillingPeriodHistogram":[],"currentBillingPeriodTotal":0,"currentPlanTier":0,"email":"asborozdin@gmail.com","emailAddresses":[{"canonical":true,"confirmed":true,"email":"asborozdin@gmail.com","id":13445095,"preferred":false}],"externalAccountExists":true,"externalAccounts":[{"provider":"google","username":null,"uri":null,"needsReauthorization":false}],"gitProviders":[{"active":true,"configurePath":"/github_oauth_settings","credentials":null,"global":true,"id":1,"name":"GitHub","providerType":"github","url":"https://github.com/"}],"githubAppInstallation":null,"id":11938288,"location":null,"membershipLevel":0,"name":"asborozdin@gmail.com","nextMembershipLevel":0,"oauthApplications":[],"plan":"free","planType":0,"roles":[],"showRegistrationModal":false,"site":null,"teamsPlan":false,"username":"asborozdin","wcAPIMembership":null,"wcAPIStripeAccount":null},"guest":{}},"settings":{"dashboard_onboarding_completed":false,"last_viewed_post_date":null,"default_editor":"classic","first_name":"asborozdin","last_name":"","seen_registration_wizard":true},"features":{"local_projects":true,"sbwork":true,"orgs":true,"send_invites_to_org_members":true,"custom_orgs":true,"live_project_safe_delete":true,"custom_registries":true,"user_auth_by_credentials":true,"stackblitz_api_only_auth":true,"default_redirect_to_bolt":true,"bolt_static_hosting":true,"bolt_tokens_to_messages_count":true,"bolt_claude_code":true,"bolt_provider_bedrock":true,"bolt_visual_edits":true,"bolt_prompt_dictation":true,"bolt_hosting_access_restrictions":true,"bolt_hosting_previews":true,"bolt_figma_frame_import":true,"bolt_cello":true,"bolt_user_skills":true,"bolt_agent_image_generation":true,"bolt_collaboration_v2":true,"bolt_token_ledger":true,"bolt_token_ledger_no_migration":true,"bolt_mcp_servers":true,"bolt_projects_dashboard":true,"bolt_gateway_router":true,"bolt_design_systems":true,"bolt_sentiment_capture":true,"bolt_block_new_v1_projects":true,"bolt_message_queue":true,"bolt_enhance_prompt_qs":true,"bolt_v3_harness":true,"bolt_proctor":true,"bolt_cancellation_flow_v2":true,"bolt_ws_push":true,"bolt_server_side_saves":true,"bolt_enforce_agent_session_state":true,"bolt_slides":true,"bolt_r2_snapshot_streaming":true,"bolt_security_audit":true,"github_app":true,"registration_wizard":true,"google_one_tap":true,"collections_private_only":true,"bolt_forge_purchase":true},"config":{"staticAssetHost":"v-corp.staticblitz.com","chatlioId":"4a1fa067-d628-4bd7-6378-ca95c8c51d22","appsignalKey":"bb27867f-9c64-4698-b56d-a5f9c5f610d4"},"organizations":{"availableOrgs":[],"currentOrg":{"data":null}},"workspace":{"workspace":{"kind":"USER","name":"asborozdin","avatar":"https://stackblitz.com/avatars/A/219.svg","id":11938288,"slug":"asborozdin","username":"asborozdin"}},"webcontainer":{"options":{"baseUrl":"https://w-staticblitz.com","initOptions":{"server":"https://local.webcontainer.io","isolationPolicy":null,"version":"d5306e6f","flattenedServer":false},"systemBinaries":{"git":false},"git":{"proxy":"https://p.stackblitz.com"},"turboBaseUrl":"https://t.staticblitz.com","registryProxy":"https://nr.staticblitz.com","registryMaxConcurrency":"","networking":{"allowLocalhostFallback":true,"promptBeforeLocalhostFallback":true,"proxy":{"address":"https://cors-proxy-production.stackblitz.workers.dev","domains":[]}}},"shortAppId":false}}</script>
+<script>
+if (typeof Analytics !== 'undefined') {
+  Analytics.page();
+} else if (typeof analytics !== 'undefined') {
+  analytics.page(); 
+}
+</script>
+
+
+
+
+
+<div data-react-component="RepoImportLoadingPage" data-react-props="{&quot;error&quot;:{&quot;message&quot;:&quot;Repository not found&quot;,&quot;description&quot;:&quot;Check that repository is public. To import a private repo \u003ca href=\&quot;https://developer.stackblitz.com/guides/user-guide/importing-projects#importing-private-projects\&quot;\u003esee our docs.\u003c/a\u003e&quot;}}"></div>
+
+
+
+</body>
+</html>
